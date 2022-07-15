@@ -1,28 +1,28 @@
-title: Welcome to Flexton
-description: Flexton is a responsive and ultra-minimal theme for Jekyll.
+title: zhangshuyiのblog
+description: this is a discription about zhangshuyi
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "flexton.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
 author-name:    Zhang Shu Yi
 author-image:   1.jpg
-author-job:    如果伤害我是你的天性 那怜悯是我的座右铭
+author-job:    どんなに苦しくても、楽な側に逃げてはいけない
 author-email:   bradzhang2010@163.com
-author-twitter: /
-about-author:   I like to play Minecraft and Undertale
+author-luogu: zhangshuyi
+about-author:  I WANT TO AKIOI !  !   !    !     !
 
 # Social settings
-social-twitter:   artemsheludko_
+social-twitter:  
 social-facebook:
-social-github:    artemsheludko
-social-pinterest: artemsheludko
-social-instagram: artemsheludko_
+social-github:    zsy816xdsj
+social-pinterest: 
+social-instagram: 
 social-youtube:
 social-vk:   
 social-linkedin:
 
 # Newsletter
-mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+mailchimp: 
 
 # Google Analytics
 google-analytics: # Add your identifier. For example UA-99631805-1
