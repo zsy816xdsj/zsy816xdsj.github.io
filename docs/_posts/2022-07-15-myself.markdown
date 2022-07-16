@@ -11,4 +11,4 @@ categories: books
 # [洛谷](https://www.luogu.com.cn/)
 # [in github](https://github.com/zsy816xdsj)
 # [ETO?](http://www.threebody.com.cn/)
-# [bilibili]https://space.bilibili.com/1368676143?spm_id_from=333.788.0.0()
+# [bilibili](https://space.bilibili.com/1368676143?spm_id_from=333.788.0.0)
