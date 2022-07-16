@@ -6,7 +6,7 @@ date: 2022-06-04 10:00:20 +0200
 tags: [books, rest]
 categories: books
 ---
-# [sans fight](https://www.luogu.com.cn/paste)
+# [sans fight](http://jcw87.github.io/c2-sans-fight/)
 # [ak ioi](https://ak-ioi.com/apps/oi-2048/)
 # [洛谷](https://www.luogu.com.cn/)
 # [in github](https://github.com/zsy816xdsj)
